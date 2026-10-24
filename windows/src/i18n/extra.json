@@ -6091,32 +6091,6 @@
       "id": "Matikan pil lain untuk memberi tempat bagi WhatsApp (maksimal {max}).",
       "de": "Schalte eine andere Pill aus, um Platz für WhatsApp zu schaffen (höchstens {max}).",
       "tr": "WhatsApp’a yer açmak için başka bir hapı kapat (en fazla {max})."
-    },
-    "Search settings": {
-      "zh-Hans": "搜索设置",
-      "hi": "सेटिंग्स खोजें",
-      "es": "Buscar en los ajustes",
-      "ar": "البحث في الإعدادات",
-      "fr": "Rechercher dans les réglages",
-      "bn": "সেটিংস খুঁজুন",
-      "pt-BR": "Buscar nos ajustes",
-      "ru": "Поиск по настройкам",
-      "id": "Cari di pengaturan",
-      "de": "Einstellungen durchsuchen",
-      "tr": "Ayarlarda ara"
-    },
-    "No results": {
-      "zh-Hans": "没有结果",
-      "hi": "कोई परिणाम नहीं",
-      "es": "Sin resultados",
-      "ar": "لا توجد نتائج",
-      "fr": "Aucun résultat",
-      "bn": "কোনো ফলাফল নেই",
-      "pt-BR": "Nenhum resultado",
-      "ru": "Нет результатов",
-      "id": "Tidak ada hasil",
-      "de": "Keine Ergebnisse",
-      "tr": "Sonuç yok"
     }
   }
 }
